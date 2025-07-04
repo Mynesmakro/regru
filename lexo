@@ -1,0 +1,2 @@
+firebase init :  Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys / build
+Configure as a single-page app (rewrite all urls to /index.html)? (y/N) y , tjerat n , n . tani e bon npm run build , tani firebase deploy
